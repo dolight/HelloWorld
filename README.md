@@ -37,3 +37,4 @@ HelloWolrd
 
 #!/usr/bin/env clojure
     (println "Hello, World!")
+    (println "Hello, World!")
