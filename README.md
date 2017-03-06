@@ -28,3 +28,10 @@ HelloWolrd
 4. 이건 여섯째.
 
 **굵게** 쓰거나 __두껍게__ 쓰거나
+*기울게* 쓰면서 _기울게_ 쓴다
+~~취소~~ 한다
+
+`import antigravity`
+
+#!/usr/bin/env clojure
+    (println "Hello, World!")
