@@ -52,4 +52,4 @@ HelloWolrd
 출처는 [위키백과][wiki]입니다.
 [wiki]: http://en.wikipedia.org/wiki/Markdown#Syntax_examples "위키백과 Markdown 항목"
 
-![세피로트](https://cdn.namu.wiki/r/http%3A%2F%2Fi.imgur.com%2F2megHz2.png "툴팁 메시지. 이 부분은 생략해도 됩니다.")
+![세피로트](http://cfile5.uf.tistory.com/image/2664F94D55252CB90A1C9E "툴팁 메시지. 이 부분은 생략해도 됩니다.")
